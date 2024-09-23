@@ -6,6 +6,7 @@ import { deleteData } from "../../store/interactions";
 
 const Data = () => {
   const orderData = useSelector(dataBookSelector);
+  console.log(orderData); // Check if this logs the expected data
   const account = useSelector((state) => state.provider.account);
   const provider = useSelector((state) => state.provider.connection);
   const medical = useSelector((state) => state.medical.contract);

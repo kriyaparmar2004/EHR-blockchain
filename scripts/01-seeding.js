@@ -1,4 +1,4 @@
-const { ethers } = require("hardhat");
+const { ethers } = require("truffle");
 const config = require("../src/config.json");
 const wait = (seconds) => {
   const milliseconds = seconds * 1000;

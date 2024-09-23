@@ -1,7 +1,9 @@
+
 {
-    "31337": {
+    "1337": {
         "medical": {
-            "address": "0x8464135c8F25Da09e49BC8782676a84730C318bC"
+            "address": "0x864e2B76771D12470AA21B8a441ef7f5cb17b089",
+            "privateKey": "0xa6933fbf4e0b92086358964bd77b83383d86ba75b9a7a22031d386b72ad98f33"
         },
         "explorerURL": "#"
     },
